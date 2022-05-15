@@ -1,7 +1,7 @@
 {
 	"name": "ytsc",
 	"version": "1.0.0",
-	"description": "Cli tool to check stream chat via terminal",
+	"description": "Cli tool to check youtube stream chat via terminal",
 	"main": "dist/index.js",
 	"scripts": {
 		"start": "node .",

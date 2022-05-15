@@ -1,6 +1,6 @@
 # ytsc
 
-Cli tool to check stream chat via terminal
+Cli tool to check youtube stream chat via terminal
 
 ## Installation
 
