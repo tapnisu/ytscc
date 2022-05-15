@@ -1,0 +1,45 @@
+{
+	"name": "ytsc",
+	"version": "1.0.0",
+	"description": "Cli tool to check stream chat via terminal",
+	"main": "dist/index.js",
+	"scripts": {
+		"start": "node .",
+		"fixDependencies": "node ./utils/fixDependencies.js",
+		"build": "tsc",
+		"build:watch": "tsc -w",
+		"format": "npx prettier --write .",
+		"lint": "eslint ./src --ext .ts",
+		"lint:fix": "eslint ./src --ext .ts --fix"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/uwury/ytsc.git"
+	},
+	"keywords": [
+		"cli",
+		"youtube",
+		"stream"
+	],
+	"author": "Alexiy Rybin <alexiy.rybin@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/uwury/ytsc/issues"
+	},
+	"homepage": "https://github.com/uwury/ytsc#readme",
+	"dependencies": {
+		"inquirer": "^8.2.4",
+		"youtube-chat": "^2.1.1"
+	},
+	"devDependencies": {
+		"@types/node": "^17.0.33",
+		"@typescript-eslint/eslint-plugin": "^5.23.0",
+		"@typescript-eslint/parser": "^5.23.0",
+		"eslint": "^8.14.0",
+		"prettier": "^2.6.2",
+		"typescript": "^4.6.4"
+	},
+	"engines": {
+		"node": ">=12"
+	}
+}

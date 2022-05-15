@@ -1,0 +1,13 @@
+# ytsc
+
+Cli tool to check stream chat via terminal
+
+## Installation
+
+1. Install dependencies via `yarn`
+
+1. Fix dependencies via `yarn fixDependencies`
+
+1. Build dist via `yarn build`
+
+1. Start via `yarn start`
