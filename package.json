@@ -33,7 +33,7 @@
 		"youtube-chat": "^2.1.1"
 	},
 	"devDependencies": {
-		"@types/node": "^17.0.41",
+		"@types/node": "^17.0.42",
 		"@typescript-eslint/eslint-plugin": "^5.28.0",
 		"@typescript-eslint/parser": "^5.28.0",
 		"eslint": "^8.17.0",
