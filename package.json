@@ -15,7 +15,7 @@
 	"bin": "dist/index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/uwury/ytscc.git"
+		"url": "git+https://github.com/taprisu/ytscc.git"
 	},
 	"keywords": [
 		"cli",
@@ -25,9 +25,9 @@
 	"author": "Alexiy Rybin <alexiy.rybin@gmail.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/uwury/ytsc/issues"
+		"url": "https://github.com/taprisu/ytscc/issues"
 	},
-	"homepage": "https://github.com/uwury/ytsc#readme",
+	"homepage": "https://github.com/taprisu/ytscc#readme",
 	"dependencies": {
 		"inquirer": "^9.0.0",
 		"youtube-chat": "^2.1.1"
