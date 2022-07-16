@@ -1,6 +1,6 @@
 {
 	"name": "ytscc",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Cli tool to check youtube stream chat via terminal",
 	"main": "dist/index.js",
 	"scripts": {
@@ -15,7 +15,7 @@
 	"bin": "dist/index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/taprisu/ytscc.git"
+		"url": "git+https://github.com/tapnisu/ytscc.git"
 	},
 	"keywords": [
 		"cli",
@@ -25,9 +25,9 @@
 	"author": "Alexiy Rybin <alexiy.rybin@gmail.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/taprisu/ytscc/issues"
+		"url": "https://github.com/tapnisu/ytscc/issues"
 	},
-	"homepage": "https://github.com/taprisu/ytscc#readme",
+	"homepage": "https://github.com/tapnisu/ytscc#readme",
 	"dependencies": {
 		"inquirer": "8.2.3",
 		"youtube-chat": "^2.1.1"

@@ -6,7 +6,7 @@ Cli tool to check youtube stream chat via terminal
 
 1. Install [node.js](https://nodejs.org/en/), [yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
 
-1. Clone this repository via `git clone https://github.com/uwury/ytscc.git`
+1. Clone this repository via `git clone https://github.com/tapnisu/ytscc.git`
 
 1. Install dependencies via `yarn`
 
